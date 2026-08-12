@@ -1,5 +1,7 @@
 # Food Market Analysis - Nutritional & Calorific
 
+> **Scope** · MSc coursework (Big Data Analytics) — published as-is.
+
 Curriculum Work/Big_Data_Analytics
 
 ## Overview
